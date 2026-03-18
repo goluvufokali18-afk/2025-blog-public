@@ -70,10 +70,10 @@
 			"order": 4
 		}
 	],
-	"clockShowSeconds": false,
-	"summaryInContent": false,
-	"isCachePem": false,
-	"hideEditButton": false,
+	"clockShowSeconds": true,
+	"summaryInContent": true,
+	"isCachePem": true,
+	"hideEditButton": true,
 	"enableCategories": true,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
