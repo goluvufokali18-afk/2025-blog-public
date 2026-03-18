@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "niaho ",
 		"username": "nanli"
 	},
 	"theme": {
@@ -61,6 +61,13 @@
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1773829978637",
+			"type": "link",
+			"value": "https://space.bilibili.com/1870576418/favlist?fid=1299676918&ftype=create",
+			"label": "bilibili",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
